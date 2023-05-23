@@ -1,5 +1,7 @@
 # Introduction to Python for Quants
 
+**If you are looking for the preparation steps (install python) for the course, go to the [preparation](preparation.md) article.**
+
 Since Python was invented in the early 1990s it has evolved to one of the most popular and wide used languages. It is used in the [banking and finance sector](https://calpaterson.com/bank-python.html) and the largest bank in the US (JP Morgan) [uses it extensively](https://www.techrepublic.com/article/jpmorgans-athena-has-35-million-lines-of-python-code-and-wont-be-updated-to-python-3-in-time/). MAN, a large hedge fund and asset manager, uses it and recently released their data frame database [ArcticDB](https://arcticdb.io/).
 
 Python is also a very popular choice for machine learning. Its easy interface to C code has made it a great choice for using performance critical code written in C / C++ but without having to learn C / C++.
