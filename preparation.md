@@ -16,4 +16,4 @@ Next, open PowerShell as an administrator and run the following:
 
 ### Linux
 
-If you are on Linux, you will probably know how to install Python on your distro. If not, please contact us for help.
+If you are on Linux, you will probably know how to install Python on your distro. If not, please ask us for help.

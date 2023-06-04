@@ -31,34 +31,7 @@ We will focus on teaching you about the following aspects of Python:
 
 ## Agenda
 
-### Day 1
-
-1. Intro
-2. Agenda for the 3 days
-3. Start with Jupyter Notebooks
-4. Basics of Python
-5. Work on projects / problems
-
-### Day 2
-
-1. Repetition: list, dict, for, if, starting Jupyter
-2. What are packages and modules?
-3. Install and manage packages
-4. Package management with virtual environments
-5. Work on projects / problems
-
-### Day 3
-
-1. Classes / OOP
-2. Work on projects / problems
-3. Lunch
-4. FastAPI + flask
-5. Advanced topics (when there is interest for them)
-   1. Context Managers
-   2. Web Servers in detail (flask)
-   3. Advanced dicts
-   4. Dunder methods
-6. Work on projects / problems
+See [course notes](./course-notes.md).
 
 ## Projects
 
