@@ -46,11 +46,15 @@
 
 #### Who are we?
 
+We are all Python coders with a good level of experience!
+
 - Alexander: B.Sc. Mathematics at TUM, FIM with focus on Quantitative Finance, Software Engineer at finccam
 - Michel: B.Sc. Mathematics at TUM, TopMath + PhD at Chair of Mathematics
 - Katharina: B.Sc. Mathematics at TUM, currently enrolled in Financial Mathematics and Actuarial Sciences at TUM
 - Janos: currently finishing his B.Sc. Informatics at TUM
 - Jonas: B.Sc. Mathematics and Computer Science at TUM, currently enrolled in Mathematics in Data Science at TUM
+
+All instructors are not paid by the club and are doing this to help you. So make the best of this great effort!
 
 #### Python
 
