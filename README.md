@@ -2,7 +2,10 @@
 
 **If you are looking for the preparation steps (install python) for the course, go to the [preparation](preparation.md) article.**
 
-This course was prepared by the [FiMaTUM](https://fimatum.de) alumni club. We want to bring together current and former students of (Financial) Mathematics at TUM.
+This course was prepared by the [FiMaTUM](https://fimatum.de) alumni club. We want to bring together current and former students of (Financial) Mathematics at TUM. It is also supported and is being held at TUM in cooperation with [Fit for TUMorrow](https://www.math.cit.tum.de/mathfinance/fit-for-tumorrow/).
+
+<img src="https://github.com/FiMaTUM/python-course-2023/assets/1760143/a406a58f-af73-4388-9e8b-145e237e1510" width="350px">
+<img src="https://github.com/FiMaTUM/python-course-2023/assets/1760143/19e170ee-1bef-44f3-99c6-5ca1ebf5dd77 " width="350px">
 
 ------
 
