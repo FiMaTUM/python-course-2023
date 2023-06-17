@@ -339,7 +339,6 @@ In general, the first way of importing your module is preferred as you should on
 
 ### Packages
 
-
 When you look at the examples with `numpy` and `pandas` from above, you will ask yourself the question: Why can I import something that is not in my current directory? (You have no `numpy` or `pandas`.)
 
 That is because you can not only import from the same directory as your current python file but also from all installed packages.
@@ -363,7 +362,7 @@ It also has other benefits that are beyond the scope of this course.
 You can create a new virtual environment with `python -m venv .env`. The most important things to remember are:
 
 - Virtual environments make it so that you are detached from the library (i.e. set of installed packages) of your Python installation but use a clean library.
-- To use a virtual environment, you need to activate it. If you use the create command from above, you can use `.env/Scripts/activate` to activate your virtual environment. Successive `pip install xxx` and also `python xxx` calls will then be made using your virtual environment. This also means that only the packages that are installed in your virtual environment are available.
+- To use a virtual environment, you need to activate it. If you use the create command from above, you can use `.env/Scripts/activate` to activate your virtual environment (on Linux: `source .env/bin/activate`). Successive `pip install xxx` and also `python xxx` calls will then be made using your virtual environment. This also means that only the packages that are installed in your virtual environment are available.
 - If you no longer want to use the virtual environment, you can use `deactivate`. You can also close and reopen the terminal.
 - If you install or remove packages, you only install and remove them in your virtual environment. These packages are not available to your global Python.
 
